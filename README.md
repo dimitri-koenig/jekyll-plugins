@@ -15,3 +15,5 @@ Perfect for fetching the file content from a github repository, without any usag
 {% remote_file_content https://raw.githubusercontent.com/dimitri-koenig/jekyll-gulp-optimizations/master/gulpfile.js %}
 {% endhighlight %}
 ```
+
+[Live demo](https://www.dimitrikoenig.net/scoring-100-on-googles-pagespeed-insights.html)
